@@ -1,2 +1,2 @@
 # Smartphone-class
-Create a smartphone class design
+Creating a smartphone class design
